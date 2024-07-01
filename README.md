@@ -18,13 +18,17 @@ Bookings : The primary dataset used is the "fact_bookings.csv" file, containing 
 
 PowerBI - Data Analysis and creating report
 
-### Data Analysis
+### Exploratory Data Analysis
 
 Exploring the booking data to answer key questions, such as :
 
 - What are the average revenue trends on weekdays compared to weekends?
 - Which hotel category shows the highest revenue growth?
 - How do revenue trends differ across various locations of the hospitality chain?
+
+### Data Visualization 
+![Screenshot 2024-07-01 204126](https://github.com/shubh-20-am/Hotel_Chain_Analysis/assets/141903981/47534d62-7d07-4a55-af38-25eaabc2e5ba)
+
 
 ### Results/Findings
 
