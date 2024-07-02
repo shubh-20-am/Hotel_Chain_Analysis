@@ -1,4 +1,4 @@
-# Hotel_Chain_Analysis
+# Hotel Chain Analysis
 
 ## Table of Contents
 
